@@ -6,7 +6,7 @@
 
 #### This project has been prepared as the second project assignment for the 2022 Winter Semester Course of HDip in Computing in Data Analytics, Programming for Data Analysis module led by Dr. Brian McGinley at Atlantic Technological University. 
 
-## **Assessment Task**
+## **Assessment Task on Wisconsin Breast Cancer (Diagnostics) Dataset**
 
 - Undertake an analysis/review of the dataset and present an overview and background.
 - Provide a literature review on classifiers which have been applied to the dataset and
@@ -16,8 +16,6 @@ compare their performance
 SKLearn etc.) and present classification performance results. Detail your rationale for the
 parameter selections you made while training the classifiers.
 - Compare, contrast and critique your results with reference to the literature
-- Discuss and investigate how the dataset could be extended – using data synthesis of new
-tumour datapoints
 
 ## **Environment - System Requirement**<p>
 ---
