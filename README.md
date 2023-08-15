@@ -66,4 +66,7 @@ and gives you stable link to that page which then
 can be shared with others. <p> nbviewer is an open 
 source project under the larger Project Jupyter 
 initiative along with other projects like Jupyter 
-Notebook, JupyterLab, and JupyterHub.<p> The static link to my Jupyter Notebook can be reached by clicking on below link or badge below:<p> 
+Notebook, JupyterLab, and JupyterHub.<p> The static link to my Jupyter Notebook can be reached by clicking on below link or badge below:<p>
+https://nbviewer.org/github/evaczeydapommersheim/22-23-PfDA-Assignment-No.2/blob/main/Wisconsin_Breast_Cancer_Analysis.ipynb<p>
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/evaczeydapommersheim/22-23-PfDA-Assignment-No.2/blob/main/Wisconsin_Breast_Cancer_Analysis.ipynb)
